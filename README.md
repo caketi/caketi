@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-11-24 16:44:57
- * @LastEditTime: 2020-11-24 16:52:51
+ * @LastEditTime: 2020-11-24 17:05:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \caketi\README.md
@@ -34,3 +34,10 @@ alt="caketi | Stats" />
  
 
  ![Visitor Count](https://profile-counter.glitch.me/{caketi}/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ ### My Digital Garden 🌱
+You can find my blogs at my [ayushirawat-website](https://ayushirawat.com).
+
+You can find my blogs at my [caketi-website](https://caketi.github.com).
