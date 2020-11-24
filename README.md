@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-11-24 16:44:57
+ * @LastEditTime: 2020-11-24 16:52:51
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \caketi\README.md
+-->
 ### Hi there 👋
 
 <!--
@@ -14,3 +22,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caketi&show_icons=true&theme=gotham"
+alt="caketi | Stats" />
+
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ 
+
+ ![Visitor Count](https://profile-counter.glitch.me/{caketi}/count.svg)
